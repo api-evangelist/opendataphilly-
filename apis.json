@@ -1,0 +1,47 @@
+{
+    "name": "OpenDataPhilly",
+    "description": "<p>OpenDataPhilly is a portal that provides access to over 175 data sets, applications, and APIs related to the Philadelphia region. Built by Azavea, a Philadelphia-based Geographic Information Systems (GIS) software firm, it is now operated by the Philadelphia Public Interest Information Network, a Philadelphia-based non-profit organization. OpenDataPhilly is based on the idea that providing free and easy access to data information encourages better and more transparent government and a more engaged and knowledgeable citizenry.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/open-data-philly-logo.png",
+    "tags": [
+        "city government",
+        "data",
+        "have api",
+        "pennsylvania",
+        "philadelphia"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opendataphilly-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenDataPhilly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/open-data-philly-logo.png",
+            "humanURL": "http:\/\/www.opendataphilly.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opendataphilly--openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.opendataphilly.org\/feeds\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opendataphilly"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.opendataphilly.org\/"
+        }
+    ]
+}
